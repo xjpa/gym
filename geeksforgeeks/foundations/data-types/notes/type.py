@@ -1,3 +1,6 @@
+# type()
+# built-in function that returns the data type of a variable/value
+
 a = 10
 print(type(a)) # int
 
