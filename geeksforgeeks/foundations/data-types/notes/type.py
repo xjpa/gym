@@ -34,4 +34,4 @@ print(type(s)) # set
 
 d = {10: "a", 20: "b"}
 print(type(d)) # dict
-# dictionaries are used to store mappings
+# dictionaries are used to store mappings and key-value pairs
