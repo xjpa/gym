@@ -1,26 +1,26 @@
 a = 10
-print(type(a))
+print(type(a)) # int
 
 b = 10.5
-print(type(b))
+print(type(b)) # float
 
 c = 2 + 4j
-print(type(c))
+print(type(c)) # complex
 
 
-# sequence type
+# sequence types (collections)
 
-str = "gfg"
-print(type(str))
+str = "John"
+print(type(str)) # str
 
 l = [10, 20, 30]
-print(type(l))
+print(type(l)) # list
 
 t = (10, 20, 30)
-print(type(t))
+print(type(t)) # tuple
 
 s = {10, 20, 30}
-print(type(s))
+print(type(s)) # set
 
 d = {10: "gfg", 20: "ide"}
-print(type(d))
+print(type(d)) # dict
