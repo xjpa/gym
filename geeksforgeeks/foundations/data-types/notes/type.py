@@ -7,7 +7,7 @@ print(type(a)) # int
 b = 10.5
 print(type(b)) # float
 
-c = 2 + 4j
+c = 2 + 4j # complex number
 print(type(c)) # complex
 
 
